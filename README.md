@@ -22,8 +22,10 @@ db.json: Это файл, содержащий данные в формате JS
 
 Это полезный способ для разработчиков тестировать взаимодействие между фронтендом (например, веб-приложением) и бэкендом (API) в локальной среде без необходимости настройки настоящего сервера.
 
-
-<img src="./image/json.png" alt="Alt img" width="250" height="auto">
-<img src="./image/handler.png" alt="Alt img" width="250" height="auto">
-<img src="./image/request1.png" alt="Alt img" width="250" height="auto">
-<img src="./image/app.png" alt="Alt img" width="250" height="auto">
+<div  display= "flex"
+  align-items="center" >
+ <img src="./image/json.png" alt="Alt img" width="250" height="auto">
+ <img src="./image/handler.png" alt="Alt img" width="250" height="auto">
+ <img src="./image/Request1.png" alt="Alt img" width="250" height="auto">
+ <img src="./image/app.png" alt="Alt img" width="250" height="auto">
+</div>
