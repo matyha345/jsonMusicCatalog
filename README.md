@@ -1,7 +1,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 <h1>En </h1> 
 
-<h2 align="center">This structure will allow you to create a fake RESTful API, bypassing the request limit (which is limited to 500 requests) from the website RapidAPI.</h2>
+<h2 align="center">This structure will allow you to create a mock RESTful API, circumventing the request limit from the <a href="https://rapidapi.com/apidojo/api/shazam" target="_blank">RapidAPI</a> website, which is set at 500 requests..</h2>
 
 # <h3 align="center">The file "db.json" contains data for processing requests related to music compositions.</h3>
 
@@ -35,7 +35,7 @@ Photo examples:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 <h1>Рус</h1>
-<h2 align="center">Данная структура позволит вам создавать фейковый RESTful API, обходя ограничение на количество запросов (ограничение в 500 запросов) с веб-сайта. <a href="https://rapidapi.com/apidojo/api/shazam" target="_blank">RapidAPI</a> </h2>
+<h2 align="center">Эта структура позволит вам создать имитацию RESTful API, обходя ограничение на количество запросов с веб-сайта <a href="https://rapidapi.com/apidojo/api/shazam" target="_blank">RapidAPI</a>, которое составляет 500 запросов.  </h2>
 
 
 # <h3 align="center">В файле db.json содержатся данные для обработки запросов музыкальных композиций.</h3>
