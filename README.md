@@ -24,8 +24,8 @@ db.json: Это файл, содержащий данные в формате JS
 
 <div  display= "flex"
   align-items="center" >
- <img src="./image/json.png" alt="Alt img" width="450" height="auto">
- <img src="./image/handler.png" alt="Alt img" width="450" height="auto">
- <img src="./image/Request1.png" alt="Alt img" width="450" height="auto">
- <img src="./image/app.png" alt="Alt img" width="250" height="auto">
+ <img src="./image/json.png" alt="Alt img" width="380" height="auto">
+ <img src="./image/handler.png" alt="Alt img" width="380" height="auto">
+ <img src="./image/Request1.png" alt="Alt img" width="380" height="auto">
+ <img src="./image/app.png" alt="Alt img" width="380" height="auto">
 </div>
