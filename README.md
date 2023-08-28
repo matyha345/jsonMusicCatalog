@@ -1,4 +1,4 @@
-<h1>En</h1>
+<h1>En ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)</h1> 
 <h2 align="center">This structure will allow you to create a fake RESTful API, bypassing the request limit (which is limited to 500 requests) from the website RapidAPI.</h2>
 
 # <h3 align="center">The file "db.json" contains data for processing requests related to music compositions.</h3>
