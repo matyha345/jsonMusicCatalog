@@ -6,7 +6,7 @@
 # <h3 align="center">The file "db.json" contains data for processing requests related to music compositions.</h3>
 
 
-The command <h1>json-server db.json -p 4200</h1> is used to start a local API server using the "json-server" tool. This tool enables you to quickly create a fake RESTful API using data from a JSON file ("db.json"). Your application can send requests to this local server to simulate interaction with a real remote server.
+The command <h1>npm i -g json-server ||  json-server db.json -p 4200</h1> is used to start a local API server using the "json-server" tool. This tool enables you to quickly create a fake RESTful API using data from a JSON file ("db.json"). Your application can send requests to this local server to simulate interaction with a real remote server.
 
 Let's break down each part of the command:
 * json-server: This is the command that launches the "json-server" tool.
